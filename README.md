@@ -1,2 +1,2 @@
 # zepto-SQL-analysis
-Data Analysis of Zepto E-commerce Inventory data using PostgreSQL.
+This is a complete, real-world data analysis project based on an e-commerce inventory dataset scraped from Zepto — one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
